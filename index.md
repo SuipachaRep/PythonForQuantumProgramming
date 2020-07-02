@@ -1,4 +1,4 @@
-# upcoming date:  November 2020
+# Upcoming date:  November 2020
 
 ## [Syllabus][1]
 ## [Proffesor][2]
