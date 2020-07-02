@@ -4,7 +4,7 @@
 ## [Proffesor][2]
 
 
-[1]: https://github.com/SuipachaRep/PythonForQuantumProgramming/Syllabus.md
+[1]: https://github.com/SuipachaRep/PythonForQuantumProgramming/blob/master/Syllabuss.html
 [2]: https://www.researchgate.net/profile/Ezequiel_Murina
 
 
