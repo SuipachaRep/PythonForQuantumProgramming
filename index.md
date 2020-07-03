@@ -1,11 +1,11 @@
 # Upcoming date:  November 2020
 
-<a href="Syllabuss.html" title="About Me">About Me</a>
+<a href="Syllabus.html" title="Sillabus ">About Me</a>
 ## [Syllabus][1]
 ## [Proffesor][2]
 
 
-[1]: https://github.com/SuipachaRep/PythonForQuantumProgramming/blob/master/Syllabuss.html
+[1]: Syllabus.html
 [2]: https://www.researchgate.net/profile/Ezequiel_Murina
 
 
