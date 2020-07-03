@@ -1,6 +1,5 @@
 # Upcoming date:  November 2020
 
-<a href="Syllabus.html" title="Sillabus ">About Me</a>
 ## [Syllabus][1]
 ## [Proffesor][2]
 
